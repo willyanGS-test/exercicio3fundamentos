@@ -6,8 +6,5 @@ D
 E
 F
 ,
-<<<<<<< HEAD
 (main add aqui)
-=======
 (add dev aqui)
->>>>>>> dev
